@@ -57,7 +57,7 @@ body form input::-moz-placeholder {
 body form input::placeholder {
   color: #fff;
 }
-body form .ask {
+body form .ask { 
   display: flex;
   justify-content: center;
   font-size: 14.5px;
